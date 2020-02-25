@@ -1,8 +1,7 @@
 # scram-master
-## License
 ### Installation Instructions
 No special installation instructions required. Eligibility is all-round.
-
+## License
 MIT License
 
 Copyright (c) [year] [fullname]
